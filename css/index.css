@@ -43,6 +43,7 @@ a:visited {
   padding: 15px;
   border-radius: 5px;
   background: #eee;
+  padding-left: 20px;
 }
 
 @media (max-width: 460px) {
